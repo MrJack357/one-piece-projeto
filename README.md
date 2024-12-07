@@ -21,6 +21,10 @@ Um projeto interativo inspirado nos personagens de **One Piece**, desenvolvido p
 Acesse o projeto online através do GitHub Pages:  
 [One Piece - Personagens Interativos](https://mrjack357.github.io/one-piece-projeto/)
 
+## 📸 Preview
+
+![Preview do Projeto](./src/imagens/preview.png)
+
 ## 📂 Estrutura de Arquivos
 
 ├── src/ │ ├── css/ │ │ ├── estilos.css # Estilo principal │ │ ├── reset.css # Reset de estilos │ │ ├── responsivo.css # Estilo responsivo │ ├── imagens/ # Imagens dos personagens e elementos gráficos │ ├── js/ │ │ ├── index.js # Lógica JavaScript para interatividade ├── index.html # Página principal do projeto
